@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="第 1 页" id="CSqLPtNgL-avwrGDaTlB">
-    <mxGraphModel dx="2944" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3012" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m__d6OJdyXCMt7KyZCjO-29" value="KcAgreementCatalogDetailDTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="320" y="20" width="440" height="1110" as="geometry">
+          <mxGeometry x="330" y="-290" width="440" height="1080" as="geometry">
             <mxRectangle x="70" y="50" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -296,14 +296,11 @@
         <mxCell id="m__d6OJdyXCMt7KyZCjO-78" value="List&amp;lt;KcAgreementCatalogServiceHumanDTO&amp;gt; serviceHumanRequireList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="m__d6OJdyXCMt7KyZCjO-29" vertex="1">
           <mxGeometry y="990" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m__d6OJdyXCMt7KyZCjO-79" value="List&amp;lt;&lt;span&gt;KcAgreementCatalogServiceHumanDTO&lt;/span&gt;&amp;gt; serviceHumanList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="m__d6OJdyXCMt7KyZCjO-29" vertex="1">
+        <mxCell id="uhuIzP3Es-dFqJNIFF9s-1" value="List&amp;lt;KcAgreementCatalogServiceRequireDTO&amp;gt; serviceRequireList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="m__d6OJdyXCMt7KyZCjO-29" vertex="1">
           <mxGeometry y="1020" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhuIzP3Es-dFqJNIFF9s-1" value="List&amp;lt;KcAgreementCatalogServiceRequireDTO&amp;gt; serviceRequireList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="m__d6OJdyXCMt7KyZCjO-29" vertex="1">
-          <mxGeometry y="1050" width="440" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="uhuIzP3Es-dFqJNIFF9s-2" value="List&amp;lt;KcAgreementQuotationRequireDTO&amp;gt; quotationRequireList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="m__d6OJdyXCMt7KyZCjO-29" vertex="1">
-          <mxGeometry y="1080" width="440" height="30" as="geometry" />
+          <mxGeometry y="1050" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m__d6OJdyXCMt7KyZCjO-80" value="KcAgreementCatalogComponentDTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1110" y="80" width="340" height="480" as="geometry">
