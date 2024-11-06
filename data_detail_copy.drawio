@@ -1189,25 +1189,25 @@
         <mxCell id="uhuIzP3Es-dFqJNIFF9s-30" value="String id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="30" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhuIzP3Es-dFqJNIFF9s-31" value="Integer parameterStar（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
+        <mxCell id="uhuIzP3Es-dFqJNIFF9s-31" value="Integer parameterStar（参数标识）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="60" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhuIzP3Es-dFqJNIFF9s-32" value="String parameterStarIcon（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
+        <mxCell id="uhuIzP3Es-dFqJNIFF9s-32" value="String parameterStarIcon（参数标识符号）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="90" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhuIzP3Es-dFqJNIFF9s-33" value="Integer sequence（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
+        <mxCell id="uhuIzP3Es-dFqJNIFF9s-33" value="Integer sequence（排序）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="120" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhuIzP3Es-dFqJNIFF9s-34" value="String extTypeCode（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
+        <mxCell id="uhuIzP3Es-dFqJNIFF9s-34" value="String extTypeCode（key）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="150" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhuIzP3Es-dFqJNIFF9s-36" value="String extTypeName（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
+        <mxCell id="uhuIzP3Es-dFqJNIFF9s-36" value="String extTypeName（key_name）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="180" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uhuIzP3Es-dFqJNIFF9s-38" value="String extValue（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
+        <mxCell id="uhuIzP3Es-dFqJNIFF9s-38" value="String extValue（value）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="210" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VYcQnqmnNoIjzm7rmO-Z-3" value="String extTypeValue（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
+        <mxCell id="VYcQnqmnNoIjzm7rmO-Z-3" value="String extTypeValue（value的编码，例如一次付清对应的code=1）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="uhuIzP3Es-dFqJNIFF9s-29" vertex="1">
           <mxGeometry y="240" width="275" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uhuIzP3Es-dFqJNIFF9s-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" parent="1" target="uhuIzP3Es-dFqJNIFF9s-33" edge="1">
