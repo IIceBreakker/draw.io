@@ -9,7 +9,7 @@
             <mxRectangle x="160" y="20" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C2iRjYQwUr5vMglBMvX1-3" value="String demandId（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;textShadow=0;fontFamily=Comic Sans MS;" parent="C2iRjYQwUr5vMglBMvX1-1" vertex="1">
+        <mxCell id="C2iRjYQwUr5vMglBMvX1-3" value="String demandId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;textShadow=0;fontFamily=Comic Sans MS;" parent="C2iRjYQwUr5vMglBMvX1-1" vertex="1">
           <mxGeometry y="30" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jJFGgtmmb8NNKWefRlXa-54" value="&lt;b&gt;String operationCode&lt;/b&gt;（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;textShadow=0;fontFamily=Comic Sans MS;" parent="C2iRjYQwUr5vMglBMvX1-1" vertex="1">
@@ -165,7 +165,7 @@
         <mxCell id="jJFGgtmmb8NNKWefRlXa-29" value="List&amp;lt;KcAgreementProjectAcquisitionDTO&amp;gt; projectAcquisitionList（采购适用人范围）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Comic Sans MS;" parent="C2iRjYQwUr5vMglBMvX1-1" vertex="1">
           <mxGeometry y="1560" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m__d6OJdyXCMt7KyZCjO-168" value="List&amp;lt;KcAgreementSupplierProjectCandidateDTO&amp;gt; supplierList（供应商雷彪）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Comic Sans MS;" parent="C2iRjYQwUr5vMglBMvX1-1" vertex="1">
+        <mxCell id="m__d6OJdyXCMt7KyZCjO-168" value="List&amp;lt;KcAgreementSupplierProjectCandidateDTO&amp;gt; supplierList（供应商列表）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Comic Sans MS;" parent="C2iRjYQwUr5vMglBMvX1-1" vertex="1">
           <mxGeometry y="1590" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VYcQnqmnNoIjzm7rmO-Z-4" value="List&amp;lt;KcAgreementCatalogServiceRequireDTO&amp;gt; serviceRequireList（旧版报价要求）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Comic Sans MS;" parent="C2iRjYQwUr5vMglBMvX1-1" vertex="1">
